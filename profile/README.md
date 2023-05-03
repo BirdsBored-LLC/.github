@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![BirdsBored LLC Cover logo with the caption "Where Boredom Takes Flight"](/profile/cover.png)
 <!--
 
 **Here are some ideas to get you started:**
